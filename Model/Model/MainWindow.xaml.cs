@@ -1,6 +1,7 @@
 ﻿using System.Collections.ObjectModel;
 using System.ComponentModel;
 using System.Data;
+using System.Data.SqlClient;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -14,9 +15,7 @@ using System.Windows.Shapes;
 
 namespace Model
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -43,11 +42,11 @@ namespace Model
         }
         private ObservableCollection<Record> records = new ObservableCollection<Record>();
 
-      
-       
-     
 
-   
+
+
+
+
         private void AddButton_Click_1(object sender, RoutedEventArgs e)
         {
             records.Add(new Record());
@@ -101,4 +100,6 @@ namespace Model
                 PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
             }
         }
+
     }
+}

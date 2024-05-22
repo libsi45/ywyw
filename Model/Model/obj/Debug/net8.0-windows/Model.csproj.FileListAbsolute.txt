@@ -18,3 +18,4 @@ C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\refint\Mode
 C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\Model.pdb
 C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\Model.genruntimeconfig.cache
 C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\ref\Model.dll
+C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\Model.csproj.AssemblyReference.cache

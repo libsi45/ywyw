@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\libsi\\source\\repos\\App\\Model\\",
+  "WorkspaceRootPath": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|c:\\users\\libsi\\source\\repos\\app\\model\\model\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|solutionrelative:model\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|c:\\users\\libsi\\documents\\github\\ywyw\\model\\model\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|solutionrelative:model\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|C:\\Users\\libsi\\source\\repos\\App\\Model\\model\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|c:\\users\\libsi\\documents\\github\\ywyw\\model\\model\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|solutionrelative:model\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|c:\\users\\libsi\\documents\\github\\ywyw\\model\\model\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|solutionrelative:model\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|c:\\users\\libsi\\documents\\github\\ywyw\\model\\model\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|solutionrelative:model\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\model\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8C6ADD3-F560-4C48-A78A-A623EB87640A}|Model\\Model.csproj|solutionrelative:model\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +30,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Model\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\Window1.xaml.cs",
+              "RelativeToolTip": "Model\\Window1.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAxwDUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:07:53.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\App.xaml",
+              "RelativeDocumentMoniker": "Model\\App.xaml",
+              "ToolTip": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\App.xaml",
+              "RelativeToolTip": "Model\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T06:03:35.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\Window1.xaml",
+              "RelativeDocumentMoniker": "Model\\Window1.xaml",
+              "ToolTip": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\Window1.xaml",
+              "RelativeToolTip": "Model\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T05:59:11.551Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\libsi\\source\\repos\\App\\Model\\Model\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Model\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\libsi\\source\\repos\\App\\Model\\Model\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\MainWindow.xaml",
               "RelativeToolTip": "Model\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-20T05:56:23.9Z"
+              "WhenOpened": "2024-05-20T05:56:23.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\libsi\\source\\repos\\App\\Model\\Model\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Model\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\libsi\\source\\repos\\App\\Model\\Model\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\libsi\\Documents\\GitHub\\ywyw\\Model\\Model\\MainWindow.xaml.cs",
               "RelativeToolTip": "Model\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T05:56:18.133Z",
               "EditorCaption": ""

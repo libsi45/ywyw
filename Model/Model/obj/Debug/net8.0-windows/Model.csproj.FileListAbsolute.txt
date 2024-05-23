@@ -19,3 +19,12 @@ C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\Model.pdb
 C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\Model.genruntimeconfig.cache
 C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\ref\Model.dll
 C:\Users\libsi\source\repos\App\Model\Model\obj\Debug\net8.0-windows\Model.csproj.AssemblyReference.cache
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\Model.csproj.AssemblyReference.cache
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\Model_MarkupCompile.cache
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\Model_MarkupCompile.lref
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\Model.dll
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\refint\Model.dll
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\Model.pdb
+C:\Users\libsi\Documents\GitHub\ywyw\Model\Model\obj\Debug\net8.0-windows\Window1.g.cs

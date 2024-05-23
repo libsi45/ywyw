@@ -22,7 +22,7 @@ namespace Model
         {
             InitializeComponent();
             LoadData();
-            dataGrid.ItemsSource = records;
+            DataGrid.ItemsSource = records;
         }
 
         private void LoadData()
@@ -37,7 +37,7 @@ namespace Model
                 SqlDataAdapter adapter = new SqlDataAdapter(command);
                 DataTable dataTable = new DataTable();
                 adapter.Fill(dataTable);
-                dataGrid.ItemsSource = dataTable.DefaultView;
+                DataGrid.ItemsSource = dataTable.DefaultView;
             }
         }
         private ObservableCollection<Record> records = new ObservableCollection<Record>();
@@ -54,9 +54,9 @@ namespace Model
 
         private void DeleteButton_Click_1(object sender, RoutedEventArgs e)
         {
-            if (dataGrid.SelectedItem != null)
+            if (DataGrid.SelectedItem != null)
             {
-                records.Remove(dataGrid.SelectedItem as Record);
+                records.Remove(DataGrid.SelectedItem as Record);
             }
         }
 

@@ -22,9 +22,10 @@ namespace Model
     {
         public Window1()
         {
-            InitializeComponent();
+
         }
 
+    
         private void Button_Click(object sender, RoutedEventArgs e, string username, string password, string query)
         {
             string connectionString = "Data Source=LAPTOP-R35ETDPP;Initial Catalog=Bd1;Integrated Security=True";
@@ -41,6 +42,8 @@ namespace Model
                 if (result > 0)
                 {
                     MessageBox.Show("Успешный вход");
+
+                    // Открываете окно и работаете в нём
                 }
                 else
                 {
